@@ -45,7 +45,8 @@
   <!-- Row 1: Core Languages & Frontend -->
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://img.icons8.com/fluency/48/000000/source-code.png" alt="Languages Icon" width="40"/><br/>
+      <!-- Using a generic code icon -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Code Icon" width="40" style="opacity: 0.7;"/><br/>
       <b>Languages</b>
       <hr/>
       <p align="center">
@@ -54,12 +55,11 @@
         <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
         <a href="https://www.python.org" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
         <a href="https://www.java.com" target="_blank" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-        <a href="https://golang.org" target="_blank" title="Go (Golang)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash Scripting"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
       </p>
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://img.icons8.com/fluency/48/000000/development.png" alt="Frontend Icon" width="40"/><br/>
+      <!-- Using a generic browser/monitor icon -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Frontend Icon" width="40" style="opacity: 0.7;"/><br/>
       <b>Frontend Development</b>
       <hr/>
       <p align="center">
@@ -69,7 +69,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
         <a href="https://sass-lang.com" target="_blank" title="Sass/SCSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-        <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+        <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/></a>
         <a href="https://mui.com/" target="_blank" title="Material UI (MUI)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/></a>
         <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
       </p>
@@ -78,52 +78,53 @@
   <!-- Row 2: Backend & Databases -->
   <tr>
     <td align="center" valign="top" width="50%">
-       <img src="https://img.icons8.com/fluency/48/000000/server.png" alt="Backend Icon" width="40"/><br/>
+       <!-- Using a generic server icon -->
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Server Icon" width="40" style="opacity: 0.7;"/><br/>
       <b>Backend Development</b>
       <hr/>
       <p align="center">
         <a href="https://expressjs.com" target="_blank" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
         <a href="https://nestjs.com/" target="_blank" title="NestJS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/></a>
-        <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
-        <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
+        <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask (Python)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
         <a href="https://graphql.org" target="_blank" title="GraphQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/></a>
-        <a href="https://grpc.io/" target="_blank" title="gRPC"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40"/></a>
-        <a href="https://restfulapi.net/" target="_blank" title="RESTful APIs"><img src="https://img.icons8.com/fluency-systems-filled/48/000000/rest-api.png" alt="REST API" width="40" height="40"/></a>
+        <!-- Using a generic API icon -->
+        <a href="https://restfulapi.net/" target="_blank" title="RESTful APIs"><img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" alt="REST API" width="40" height="40" style="opacity: 0.7;"/></a>
       </p>
     </td>
     <td align="center" valign="top" width="50%">
-       <img src="https://img.icons8.com/fluency/48/000000/database.png" alt="Database Icon" width="40"/><br/>
+       <!-- Using a generic database icon -->
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Database Icon" width="40" style="opacity: 0.7;"/><br/>
       <b>Databases & Caching</b>
       <hr/>
       <p align="center">
         <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
         <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
         <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-        <a href="https://aws.amazon.com/rds/" target="_blank" title="AWS RDS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a> <!-- Using generic AWS icon for RDS -->
-        <a href="https://aws.amazon.com/dynamodb/" target="_blank" title="AWS DynamoDB"><img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-P494L4E5.png" alt="DynamoDB" width="35" height="40"/></a> <!-- Using a third-party icon, check license if needed -->
+        <!-- Using main AWS logo for RDS/DynamoDB -->
+        <a href="https://aws.amazon.com/rds/" target="_blank" title="AWS RDS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS RDS" width="40" height="40"/></a>
+        <a href="https://aws.amazon.com/dynamodb/" target="_blank" title="AWS DynamoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS DynamoDB" width="40" height="40"/></a>
         <a href="https://redis.io" target="_blank" title="Redis"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
         <a href="https://mongoosejs.com/" target="_blank" title="Mongoose ODM"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/></a>
-        <!-- <a href="https://www.elastic.co/elasticsearch/" target="_blank" title="Elasticsearch"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/></a> -->
       </p>
     </td>
   </tr>
    <!-- Row 3: Testing & Tools -->
    <tr>
     <td align="center" valign="top" width="50%">
-       <img src="https://img.icons8.com/fluency/48/000000/test-passed.png" alt="Testing Icon" width="40"/><br/>
+       <!-- Using a generic checkmark/test icon -->
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Testing Icon" width="40" style="opacity: 0.7;"/><br/>
       <b>Testing & Quality Assurance</b>
       <hr/>
       <p align="center">
         <a href="https://jestjs.io" target="_blank" title="Jest"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/></a>
         <a href="https://testing-library.com/" target="_blank" title="React Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library" width="40" height="40"/></a>
-        <a href="https://mochajs.org" target="_blank" title="Mocha"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/></a>
-        <a href="https://www.chaijs.com" target="_blank" title="Chai"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chai/chai-plain.svg" alt="Chai" width="40" height="40"/></a>
-        <a href="https://www.cypress.io" target="_blank" title="Cypress (E2E Testing)"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="40" height="40"/></a>
         <a href="https://www.postman.com/" target="_blank" title="Postman (API Testing)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
+        <!-- Removed Mocha, Cypress, Chai -->
       </p>
     </td>
     <td align="center" valign="top" width="50%">
-       <img src="https://img.icons8.com/fluency/48/000000/toolbox.png" alt="Tools Icon" width="40"/><br/>
+       <!-- Using a generic tools icon -->
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Tools Icon" width="40" style="opacity: 0.7;"/><br/>
       <b>Essential Tools & Platforms</b>
       <hr/>
       <p align="center">
@@ -147,7 +148,7 @@
   <table>
     <tr>
       <td align="center" valign="top" width="33%">
-        <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Icon" width="40"/><br/>
+        <a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Icon" width="60"/></a><br/>
         <b>AWS Core Services</b>
         <hr/>
         <p align="left" style="padding-left: 10px;">
@@ -162,7 +163,8 @@
         </p>
       </td>
       <td align="center" valign="top" width="33%">
-        <img src="https://img.icons8.com/fluency/48/000000/terraform.png" alt="IaC Icon" width="40"/><br/>
+        <!-- Using Terraform icon as representative -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="IaC Icon" width="40" style="opacity: 0.7;"/><br/>
         <b>Infrastructure as Code (IaC)</b>
         <hr/>
         <p align="center">
@@ -172,7 +174,8 @@
            <a href="https://www.ansible.com/" target="_blank" title="Ansible"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
         </p>
         <br/>
-        <img src="https://img.icons8.com/fluency/48/000000/container-ship.png" alt="Containers Icon" width="40"/><br/>
+        <!-- Using Docker icon as representative -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Containers Icon" width="40" style="opacity: 0.7;"/><br/>
         <b>Containerization & Orchestration</b>
         <hr/>
         <p align="center">
@@ -183,7 +186,8 @@
         </p>
       </td>
       <td align="center" valign="top" width="33%">
-        <img src="https://img.icons8.com/fluency/48/000000/cicd-pipeline.png" alt="CI/CD Icon" width="40"/><br/>
+        <!-- Using GitHub Actions icon as representative -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="CI/CD Icon" width="40" style="opacity: 0.7;"/><br/>
         <b>CI/CD & Automation</b>
         <hr/>
         <p align="center">
@@ -194,7 +198,8 @@
            <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" title="Argo CD (GitOps)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Argo CD" width="40" height="40"/></a>
         </p>
         <br/>
-        <img src="https://img.icons8.com/fluency/48/000000/monitoring.png" alt="Monitoring Icon" width="40"/><br/>
+        <!-- Using Prometheus icon as representative -->
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Monitoring Icon" width="40" style="opacity: 0.7;"/><br/>
         <b>Monitoring & Observability</b>
         <hr/>
         <p align="center">
@@ -220,7 +225,7 @@
   <br/>
   <ul>
     <li><b>Challenge:</b> Modernize and consolidate disparate legacy systems into a unified, scalable, and reliable cloud-based platform for a large educational institution.</li>
-    <li><b>Solution:</b> Architected and led the development of a microservices-based ERP using <b>Node.js (TypeScript)</b>, <b>React</b>, and <b>MongoDB/PostgreSQL (RDS)</b>. Implemented fine-grained RBAC, real-time notifications (WebSockets/SNS), automated reporting pipelines, and integrated secure payment gateways.</li>
+    <li><b>Solution:</b> Architected and led the development of a microservices-based ERP using <b>Node.js (TypeScript)</b>, <b>React</b>, and <b>MongoDB/PostgreSQL (RDS)</b>. Implemented fine-grained RBAC, real-time event notifications (WebSockets/SNS), automated reporting pipelines, and integrated secure payment gateways.</li>
     <li><b>Architecture & DevOps:</b> Deployed containerized (<b>Docker</b>) services orchestrated on <b>AWS EKS</b> managed via <b>Helm</b> and GitOps (<b>Argo CD</b>). Utilized <b>DynamoDB</b> for high-throughput metadata, <b>S3</b> for assets, and <b>ElastiCache (Redis)</b> for caching/session management. Established robust CI/CD using <b>GitHub Actions</b>. Implemented comprehensive monitoring with <b>Prometheus/Grafana</b>, <b>CloudWatch</b>, and integrated alerting (PagerDuty).</li>
     <li><b>Impact:</b> Streamlined operations significantly (~60% reduction in manual effort), enhanced data accuracy, improved user satisfaction across roles (Admin, Staff, Student), and ensured high availability/scalability during peak loads.</li>
   </ul>
@@ -285,10 +290,10 @@
 I am actively exploring and deepening my expertise in:
 
 *   ✅ **Advanced Kubernetes:** Service Mesh (Istio/Linkerd), GitOps (FluxCD), Cluster API.
-*   ✅ **Event-Driven Architectures:** Deeper dive into AWS EventBridge, Step Functions, Kafka.
+*   ✅ **Event-Driven Architectures:** Deeper dive into AWS EventBridge, Step Functions, Kafka concepts.
 *   ✅ **Cloud Security & Compliance:** Advanced IAM policies, Security Hub automation, Well-Architected Reviews.
 *   ✅ **Performance Engineering:** End-to-end application profiling, database tuning, distributed tracing.
-*   ✅ **Go (Golang):** Building high-performance microservices and CLI tools.
+*   ✅ **Infrastructure Optimization:** Cost management strategies (AWS Cost Explorer, Savings Plans), FinOps principles.
 *   *Currently pursuing [Your Next Certification Goal, e.g., AWS Certified DevOps Engineer - Professional]*
 
 ---
