@@ -1,108 +1,125 @@
-<h1 align="center">Hey 👋, I'm Rakshit</h1>
-<h3 align="center">Full Stack Developer | Agile Project Manager | MERN Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Rakshit</h1>
+<h3 align="center">Full Stack Developer | Project Manager | AWS Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-MERN Stack-informational?style=flat&logo=javascript&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Focus-Project Management-blueviolet?style=flat&logo=jira&color=7a1ea1" />
-  <img src="https://img.shields.io/badge/Location-Haryana,%20India-orange?style=flat&logo=google-maps" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-informational?style=flat&logo=javascript&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Services-orange?style=flat&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Location-Haryana,%20India-blue" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** and **Project Manager** passionate about building scalable, user-focused applications. With real-world experience managing teams and contributing to complex projects, I specialize in the **MERN Stack**, **REST APIs**, and project execution through **Agile methodologies**.
+I'm a results-driven **Full Stack Developer** with a passion for building scalable applications, managing projects, and implementing cloud-native solutions. I’ve worked across cross-functional teams to develop complex systems including ERP platforms, AI chatbots, and real estate web applications.
 
-From idea to deployment, I take pride in bringing concepts to life that make a real-world impact.
+I'm committed to crafting high-quality software with clean code, effective architecture, and meaningful UX.
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-### 🖥️ Languages & Frameworks
-
+### 💻 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-Design-informational?style=flat&logo=figma" />
 </p>
 
-### ⚙️ Tools & Platforms
-
+### 🖥️ Backend Development
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+</p>
+
+### 🛢️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-Database-informational?style=flat" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 ERP System (Enterprise Resource Planning)
-> Full-stack ERP system for managing inventory, employee records, and analytics.
-- Role-based access for Admin, HR, and Operations
-- Dashboard with dynamic charts & KPIs
-- Integrated RESTful APIs and MongoDB backend
-- Team collaboration in Agile sprints with JIRA
+### 🏫 School ERP System
+An all-in-one platform designed for educational institutions to streamline operations, staff, and student data.
+- 🧑‍🏫 Admin Panel: Manage classes, staff, results, events
+- 🗂️ Student & Staff Portals with login-based dashboards
+- 📆 Timetable & attendance tracking system
+- 💳 Fee management, due alerts & receipts
+- 📋 Report cards, results & announcements system
+- ⚙️ Built with Node.js, React, MongoDB and RESTful API architecture
+- 👥 Collaborated in an Agile team using JIRA
 
-### 🤖 AI Chatbot (Automated Support Assistant)
-> A fully automated AI-powered chatbot designed to handle user queries and FAQ for a service platform.
-- Trained on custom intents and user data
-- Real-time responses and human fallback
-- Integrated via API in multiple frontends
-- Deployed using Node.js and Dialogflow (with future expansion toward Rasa)
+### 🤖 AI Chatbot
+Smart assistant designed to answer FAQs and support users in real-time.
+- Trained with Dialogflow intents
+- Frontend integration with fallback
+- Node.js-based webhook for dynamic answers
 
-### 🏠 Real Estate Website
-> High-performance real estate listing platform with map integration and lead generation.
-- Advanced filtering & search system
-- Property upload and dynamic image gallery
-- Built with MERN Stack and responsive mobile-first design
-- Integrated Google Maps and MongoDB
-
-### 🌐 Portfolio Website
-> A clean, fast, and responsive portfolio built using React.js and styled-components.
-- Projects showcase, contact form, and smooth scrolling
-- SEO optimized and deployed via Netlify
-
-### 🍽️ Restaurant Web App
-> Dynamic restaurant platform with reservation system, menu builder, and mobile-first UI.
-
-### 📰 News Web App
-> News app with filtering by category, real-time API data fetch, and responsive layout.
+### 🏘️ Real Estate Website
+Search and list property listings dynamically with map & location features.
+- Geo filter + user uploads + MongoDB image storage
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravi1475&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi1475&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ravi1475&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravi1475&theme=tokyonight&column=7" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let’s Connect
 
 - 📍 Haryana, India  
 - 📧 rakshitruhil270@gmail.com  
-- 🔗 [LinkedIn](#) *(Add your LinkedIn profile)*  
-- 🌐 [Portfolio](#) *(Add when available)*  
+- 💼 [LinkedIn](#) *(add your LinkedIn URL)*  
+- 🌐 [Portfolio](#) *(add your portfolio link when live)*  
 
 ---
 
 <p align="center">
-  <i>“Clean code. Real impact. Meaningful work.”</i><br/>
-  💬 Feel free to connect or reach out for collaboration!
+  ✨ “Empowering education and innovation through code.”  
+  <br>
+  🤝 Let’s connect and collaborate!
 </p>
