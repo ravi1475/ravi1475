@@ -4,10 +4,10 @@
   <h3><b>Senior Full Stack Engineer | Cloud & DevOps Architect | Technical Lead</b></h3>
   <p><i>Building scalable, resilient, and performant digital solutions from concept to cloud.</i></p>
   <p>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-    <a href="mailto:rakshitruhil270@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <a href="mailto:rakshitruhil270@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <!-- Optional: Portfolio Badge -->
-    <!-- <a href="your-portfolio-link" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=briefcase&logoColor=white"></a>  -->
+    <!-- <a href="your-portfolio-link" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=briefcase&logoColor=white"></a>  -->
     <img alt="Location" src="https://img.shields.io/badge/Location-Haryana,%20India-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white">
   </p>
   <p>
@@ -27,7 +27,7 @@
   *   🧩 **Scalable & Resilient Architecture**
   *   💻 **Clean, Testable & Maintainable Code** (SOLID, Design Patterns)
   *   ☁️ **Cloud-Native Best Practices** (Serverless, Containers, IaC)
-  *   ⚙️ **Automation Across the SDLC** (CI/CD, Testing, Infrastructure)
+  *   ⚙️ **Automation Across the SDLC** (CI/CD, Infrastructure)
   *   🔒 **Security-First Mindset** (DevSecOps)
   *   📊 **Data-Driven Optimization** (Monitoring & Observability)
   *   👥 **Exceptional User Experience (UX)**
@@ -39,219 +39,136 @@
 
 ## 🛠️ Technical Proficiency & Tooling Ecosystem
 
-*(Hover over icons for details)*
+<div align="center">
 
-<table>
-  <!-- Row 1: Core Languages & Frontend -->
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <!-- Using a generic code icon -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Code Icon" width="40" style="opacity: 0.7;"/><br/>
-      <b>Languages</b>
-      <hr/>
-      <p align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript (ES6+)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-        <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-        <a href="https://www.python.org" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-        <a href="https://www.java.com" target="_blank" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <!-- Using a generic browser/monitor icon -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Frontend Icon" width="40" style="opacity: 0.7;"/><br/>
-      <b>Frontend Development</b>
-      <hr/>
-      <p align="center">
-        <a href="https://reactjs.org/" target="_blank" title="React.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-        <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
-        <a href="https://redux.js.org" target="_blank" title="Redux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-        <a href="https://sass-lang.com" target="_blank" title="Sass/SCSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-        <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-        <a href="https://mui.com/" target="_blank" title="Material UI (MUI)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/></a>
-        <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
-      </p>
-    </td>
-  </tr>
-  <!-- Row 2: Backend & Databases -->
-  <tr>
-    <td align="center" valign="top" width="50%">
-       <!-- Using a generic server icon -->
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Server Icon" width="40" style="opacity: 0.7;"/><br/>
-      <b>Backend Development</b>
-      <hr/>
-      <p align="center">
-        <a href="https://expressjs.com" target="_blank" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-        <a href="https://nestjs.com/" target="_blank" title="NestJS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/></a>
-        <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask (Python)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
-        <a href="https://graphql.org" target="_blank" title="GraphQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/></a>
-        <!-- Using a generic API icon -->
-        <a href="https://restfulapi.net/" target="_blank" title="RESTful APIs"><img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" alt="REST API" width="40" height="40" style="opacity: 0.7;"/></a>
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-       <!-- Using a generic database icon -->
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Database Icon" width="40" style="opacity: 0.7;"/><br/>
-      <b>Databases & Caching</b>
-      <hr/>
-      <p align="center">
-        <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-        <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-        <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-        <!-- Using main AWS logo for RDS/DynamoDB -->
-        <a href="https://aws.amazon.com/rds/" target="_blank" title="AWS RDS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS RDS" width="40" height="40"/></a>
-        <a href="https://aws.amazon.com/dynamodb/" target="_blank" title="AWS DynamoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS DynamoDB" width="40" height="40"/></a>
-        <a href="https://redis.io" target="_blank" title="Redis"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-        <a href="https://mongoosejs.com/" target="_blank" title="Mongoose ODM"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/></a>
-      </p>
-    </td>
-  </tr>
-   <!-- Row 3: Testing & Tools -->
-   <tr>
-    <td align="center" valign="top" width="50%">
-       <!-- Using a generic checkmark/test icon -->
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Testing Icon" width="40" style="opacity: 0.7;"/><br/>
-      <b>Testing & Quality Assurance</b>
-      <hr/>
-      <p align="center">
-        <a href="https://jestjs.io" target="_blank" title="Jest"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/></a>
-        <a href="https://testing-library.com/" target="_blank" title="React Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library" width="40" height="40"/></a>
-        <a href="https://www.postman.com/" target="_blank" title="Postman (API Testing)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
-        <!-- Removed Mocha, Cypress, Chai -->
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-       <!-- Using a generic tools icon -->
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Tools Icon" width="40" style="opacity: 0.7;"/><br/>
-      <b>Essential Tools & Platforms</b>
-      <hr/>
-      <p align="center">
-        <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-        <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-        <a href="https://about.gitlab.com/" target="_blank" title="GitLab"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
-        <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/></a>
-        <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-        <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-        <a href="https://www.nginx.com" target="_blank" title="Nginx"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
-        <a href="https://wordpress.org/" target="_blank" title="WordPress"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### Core Technologies
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+### Frontend Development
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
+
+### Backend & APIs
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+### Databases & Storage
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![AWS RDS](https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/rds/)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
+
+</div>
+
+---
 
 <details>
   <summary>☁️ <b>Cloud & DevOps Expertise (AWS Focused)</b> - Click to Expand</summary>
   <br/>
-  <p align="center"><i>Leveraging cloud infrastructure and automation for scalable, reliable, and cost-effective solutions.</i></p>
-  <table>
-    <tr>
-      <td align="center" valign="top" width="33%">
-        <a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Icon" width="60"/></a><br/>
-        <b>AWS Core Services</b>
-        <hr/>
-        <p align="left" style="padding-left: 10px;">
-          • <b>Compute:</b> EC2, Lambda, ECS, EKS, Fargate<br/>
-          • <b>Storage:</b> S3, EBS, EFS, Glacier<br/>
-          • <b>Networking:</b> VPC, Route 53, CloudFront, API Gateway, ELB<br/>
-          • <b>Databases:</b> RDS, Aurora, DynamoDB, ElastiCache<br/>
-          • <b>Security:</b> IAM, KMS, Secrets Manager, WAF<br/>
-          • <b>Messaging:</b> SQS, SNS, EventBridge<br/>
-          • <b>Management:</b> CloudFormation, CloudWatch, Systems Manager<br/>
-          <i>(Experience across multiple service categories)</i>
-        </p>
-      </td>
-      <td align="center" valign="top" width="33%">
-        <!-- Using Terraform icon as representative -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="IaC Icon" width="40" style="opacity: 0.7;"/><br/>
-        <b>Infrastructure as Code (IaC)</b>
-        <hr/>
-        <p align="center">
-           <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40"/></a>
-           <a href="https://aws.amazon.com/cdk/" target="_blank" title="AWS CDK"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awscdk/awscdk-original.svg" alt="AWS CDK" width="40" height="40"/></a>
-           <a href="https://aws.amazon.com/cloudformation/" target="_blank" title="AWS CloudFormation"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-cloudformation/AWS-CloudFormation_Icon_32_Squid.e8d9addafa8df1a45615f050d689a94157c40796.svg" alt="CloudFormation" width="40" height="40"/></a>
-           <a href="https://www.ansible.com/" target="_blank" title="Ansible"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
-        </p>
-        <br/>
-        <!-- Using Docker icon as representative -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Containers Icon" width="40" style="opacity: 0.7;"/><br/>
-        <b>Containerization & Orchestration</b>
-        <hr/>
-        <p align="center">
-           <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
-           <a href="https://kubernetes.io" target="_blank" title="Kubernetes"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></a>
-           <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-eks/AWS-Elastic-Kubernetes-Service_Icon_32_Squid.57c6f962f23e9956adb3e1f9c10f4d59134b87d1.svg" alt="EKS" width="40" height="40"/></a>
-           <a href="https://helm.sh" target="_blank" title="Helm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/></a>
-        </p>
-      </td>
-      <td align="center" valign="top" width="33%">
-        <!-- Using GitHub Actions icon as representative -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="CI/CD Icon" width="40" style="opacity: 0.7;"/><br/>
-        <b>CI/CD & Automation</b>
-        <hr/>
-        <p align="center">
-           <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
-           <a href="https://www.jenkins.io" target="_blank" title="Jenkins"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
-           <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" title="GitLab CI/CD"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI" width="40" height="40"/></a>
-           <a href="https://aws.amazon.com/codepipeline/" target="_blank" title="AWS CodePipeline"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-codepipeline/AWS-CodePipeline_Icon_32_Squid.5ce03ba12855dd769f460b6831a0303f9b9a43a6.svg" alt="CodePipeline" width="40" height="40"/></a>
-           <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" title="Argo CD (GitOps)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Argo CD" width="40" height="40"/></a>
-        </p>
-        <br/>
-        <!-- Using Prometheus icon as representative -->
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Monitoring Icon" width="40" style="opacity: 0.7;"/><br/>
-        <b>Monitoring & Observability</b>
-        <hr/>
-        <p align="center">
-           <a href="https://aws.amazon.com/cloudwatch/" target="_blank" title="AWS CloudWatch"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-cloudwatch/Amazon-CloudWatch_Icon_32_Squid.41b27cac3fbf549616a896f109f895d17f664641.svg" alt="CloudWatch" width="40" height="40"/></a>
-           <a href="https://prometheus.io/" target="_blank" title="Prometheus"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/></a>
-           <a href="https://grafana.com" target="_blank" title="Grafana"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
-           <a href="https://www.elastic.co/what-is/elk-stack" target="_blank" title="ELK Stack (Elasticsearch, Logstash, Kibana)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ELK Stack" width="40" height="40"/></a>
-           <a href="https://opentelemetry.io/" target="_blank" title="OpenTelemetry"><img src="https://opentelemetry.io/img/logos/opentelemetry-icon-color.svg" alt="OpenTelemetry" width="40" height="40"/></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  
+  <div align="center">
+  
+  ### ☁️ AWS Cloud Services
+  [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+  [![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
+  [![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)](https://aws.amazon.com/ec2/)
+  [![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
+  [![CloudFront](https://img.shields.io/badge/AWS_CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloudfront/)
+  [![API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)](https://aws.amazon.com/api-gateway/)
+
+  ### 🛠️ Infrastructure as Code
+  [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+  [![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cdk/)
+  [![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloudformation/)
+  [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+
+  ### 🐳 Containerization & Orchestration
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+  [![EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)](https://aws.amazon.com/eks/)
+  [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
+
+  ### 🔄 CI/CD & Automation
+  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+  [![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+  [![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/codepipeline/)
+  [![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/en/stable/)
+
+  ### 📊 Monitoring & Observability
+  [![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)](https://aws.amazon.com/cloudwatch/)
+  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+  [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/what-is/elk-stack)
+
+  </div>
 </details>
 
 ---
 
 ## 🚀 Highlighted Projects & Contributions
 
-*(Focusing on architecture, challenges, and impact)*
+<table>
+<tr>
+<td width="50%">
 
-<details>
-  <summary>🏫 <b>Enterprise School ERP System (Cloud-Native Architecture)</b></summary>
-  <br/>
-  <ul>
-    <li><b>Challenge:</b> Modernize and consolidate disparate legacy systems into a unified, scalable, and reliable cloud-based platform for a large educational institution.</li>
-    <li><b>Solution:</b> Architected and led the development of a microservices-based ERP using <b>Node.js (TypeScript)</b>, <b>React</b>, and <b>MongoDB/PostgreSQL (RDS)</b>. Implemented fine-grained RBAC, real-time event notifications (WebSockets/SNS), automated reporting pipelines, and integrated secure payment gateways.</li>
-    <li><b>Architecture & DevOps:</b> Deployed containerized (<b>Docker</b>) services orchestrated on <b>AWS EKS</b> managed via <b>Helm</b> and GitOps (<b>Argo CD</b>). Utilized <b>DynamoDB</b> for high-throughput metadata, <b>S3</b> for assets, and <b>ElastiCache (Redis)</b> for caching/session management. Established robust CI/CD using <b>GitHub Actions</b>. Implemented comprehensive monitoring with <b>Prometheus/Grafana</b>, <b>CloudWatch</b>, and integrated alerting (PagerDuty).</li>
-    <li><b>Impact:</b> Streamlined operations significantly (~60% reduction in manual effort), enhanced data accuracy, improved user satisfaction across roles (Admin, Staff, Student), and ensured high availability/scalability during peak loads.</li>
-  </ul>
-</details>
+### 🏫 Enterprise School ERP System
+**Cloud-Native Microservices Architecture**
 
-<details>
-  <summary>🤖 <b>AI-Powered Customer Interaction Platform (Serverless)</b></summary>
-  <br/>
-  <ul>
-    <li><b>Challenge:</b> Reduce Tier-1 support load and provide instant, 24/7 query resolution via an intelligent chatbot integrated into the main web application.</li>
-    <li><b>Solution:</b> Developed an AI assistant using <b>Google Dialogflow</b> for NLU, backed by a <b>Node.js</b> service handling dynamic logic and data retrieval. Created a seamless <b>React</b> frontend component with effective fallback strategies.</li>
-    <li><b>Architecture & DevOps:</b> Built on a serverless paradigm using <b>AWS Lambda</b>, <b>API Gateway</b>, and <b>DynamoDB</b> for state management. CI/CD managed via the <b>Serverless Framework</b> and <b>AWS CodePipeline</b>. Iteratively trained and improved Dialogflow models. Monitored function performance and errors via <b>CloudWatch Logs & X-Ray</b>.</li>
-    <li><b>Impact:</b> Successfully deflected ~40% of routine support queries, improved customer engagement scores, and significantly reduced average response times.</li>
-  </ul>
-</details>
+- **Tech Stack:** Node.js, TypeScript, React, MongoDB, PostgreSQL
+- **Cloud:** AWS EKS, DynamoDB, S3, ElastiCache
+- **DevOps:** Docker, Helm, ArgoCD, GitHub Actions
+- **Impact:** 60% reduction in manual operations, enhanced scalability
 
-<details>
-  <summary>🏘️ <b>High-Performance Real Estate Platform (MERN + Optimization)</b></summary>
-  <br/>
-  <ul>
-    <li><b>Challenge:</b> Build a highly responsive platform to handle large datasets, complex geospatial searches, and efficient image delivery for property listings.</li>
-    <li><b>Solution:</b> Developed a MERN stack application employing optimized <b>MongoDB</b> geospatial indexing and performant backend API design. Implemented Server-Side Rendering (SSR) using <b>Next.js</b> for enhanced SEO and faster initial page loads. Integrated <b>Mapbox API</b> for interactive maps and geocoding. Leveraged <b>AWS S3 + CloudFront</b> for globally distributed, fast image loading.</li>
-    <li><b>Architecture & DevOps:</b> Deployed onto an <b>AWS EC2 Auto Scaling Group</b> behind an ALB. Utilized <b>MongoDB Atlas</b> for managed database services. Implemented background task processing (image resizing, notifications) with <b>SQS + Lambda</b>. Set up CI/CD using <b>Jenkins</b> for automated deployments.</li>
-    <li><b>Impact:</b> Achieved sub-second response times for typical search queries, dramatically improved user engagement and time-on-site, and provided a scalable foundation for future feature growth.</li>
-  </ul>
-</details>
+</td>
+<td width="50%">
+
+### 🤖 AI-Powered Customer Platform
+**Serverless Architecture**
+
+- **Tech Stack:** Node.js, Google Dialogflow, React
+- **Cloud:** AWS Lambda, API Gateway, DynamoDB
+- **DevOps:** Serverless Framework, AWS CodePipeline
+- **Impact:** 40% reduction in support queries, improved engagement
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏘️ High-Performance Real Estate Platform
+**MERN Stack with Optimization**
+
+- **Tech Stack:** MongoDB, Express, React, Node.js, Next.js
+- **Cloud:** AWS EC2, S3, CloudFront, SQS, Lambda
+- **Features:** Geospatial search, SSR, Mapbox integration
+- **Impact:** Sub-second response times, enhanced user engagement
+
+</td>
+<td width="50%">
+
+### 🔧 Infrastructure Automation Suite
+**Multi-Cloud DevOps Platform**
+
+- **Tech Stack:** Terraform, Python, Bash, YAML
+- **Cloud:** AWS, Multi-region deployments
+- **Features:** Auto-scaling, Cost optimization, Security compliance
+- **Impact:** 70% faster deployment cycles, improved reliability
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -259,27 +176,14 @@
 
 <div align="center">
 
-<!-- GitHub Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Ravi1475&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Ravi1475&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-<!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi1475&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi1475&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<!-- GitHub Trophies -->
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Ravi1475&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&row=1" alt="GitHub Trophies" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=Ravi1475&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" alt="GitHub Trophies" />
 
-<!-- GitHub Contributions Graph -->
-<details>
-  <summary>📈 Contributions Graph</summary>
-  <br/>
-  <img src="https://ghchart.rshah.org/tokyonight/Ravi1475" alt="Ravi1475's GitHub Contributions Graph"/>
-</details>
-
-<!-- Link to Contributions -->
-<p>
-  <a href="https://github.com/Ravi1475?tab=repositories" target="_blank"><img alt="Repositories" src="https://img.shields.io/badge/-My%20Repositories-181717?style=flat-square&logo=github&logoColor=white"></a> 
-  <a href="https://github.com/Ravi1475?tab=contributions" target="_blank"><img alt="Contributions" src="https://img.shields.io/badge/-Contribution%20Activity-2bbc8a?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+### 📈 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravi1475&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -287,29 +191,38 @@
 
 ## 🌱 Continuous Learning & Future Focus
 
-I am actively exploring and deepening my expertise in:
+<div align="center">
 
-*   ✅ **Advanced Kubernetes:** Service Mesh (Istio/Linkerd), GitOps (FluxCD), Cluster API.
-*   ✅ **Event-Driven Architectures:** Deeper dive into AWS EventBridge, Step Functions, Kafka concepts.
-*   ✅ **Cloud Security & Compliance:** Advanced IAM policies, Security Hub automation, Well-Architected Reviews.
-*   ✅ **Performance Engineering:** End-to-end application profiling, database tuning, distributed tracing.
-*   ✅ **Infrastructure Optimization:** Cost management strategies (AWS Cost Explorer, Savings Plans), FinOps principles.
-*   *Currently pursuing [Your Next Certification Goal, e.g., AWS Certified DevOps Engineer - Professional]*
+```javascript
+const currentFocus = {
+  cloudSecurity: ["Advanced IAM", "Security Hub", "Well-Architected Reviews"],
+  kubernetes: ["Service Mesh (Istio)", "GitOps (FluxCD)", "Cluster API"],
+  eventDriven: ["AWS EventBridge", "Step Functions", "Apache Kafka"],
+  performance: ["Distributed Tracing", "Database Optimization", "Profiling"],
+  finOps: ["Cost Management", "AWS Savings Plans", "Resource Optimization"]
+};
 
----
+console.log("Always learning, always growing! 🚀");
+```
 
-## 🤝 Let's Connect!
-
-I'm always excited to discuss technology, innovative projects, and potential collaborations. Feel free to reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-  <a href="mailto:rakshitruhil270@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- Add other relevant links like Twitter, Blog, Portfolio with similar badges -->
-</p>
+</div>
 
 ---
 
-<p align="center">
-<i>"Striving to build not just functional, but elegant and resilient software systems."</i>
-</p>
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+**I'm always excited to discuss innovative projects and explore new opportunities!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshitruhil270@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravi1475)
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+elegant+and+resilient+software+systems;Passionate+about+cloud-native+technologies;Always+exploring+new+tech+frontiers!" alt="Typing SVG" />
+
+**"Code is poetry written in logic, infrastructure is the stage where it performs."**
+
+</div>
