@@ -1,16 +1,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Wave">
   <h1><b>Hey there! I'm Rakshit</b> 👋</h1>
-  <h3><b>Senior Full Stack Engineer | Cloud & DevOps Architect | Technical Lead</b></h3>
-  <p><i>Building scalable, resilient, and performant digital solutions from concept to cloud.</i></p>
+  <h3><b>Senior Full Stack Engineer | AI/ML Engineer | Cloud Architect | Technical Lead</b></h3>
+  <p><i>Architecting intelligent, scalable systems with cutting-edge AI and cloud-native technologies.</i></p>
   <p>
     <a href="mailto:rakshitruhil270@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <!-- Optional: Portfolio Badge -->
-    <!-- <a href="your-portfolio-link" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=briefcase&logoColor=white"></a>  -->
+    <a href="https://linkedin.com/in/rakshit-ruhil" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <img alt="Location" src="https://img.shields.io/badge/Location-Haryana,%20India-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white">
   </p>
   <p>
-     ✨ TypeScript | Node.js | React | AWS | Docker | Kubernetes | Terraform ✨
+     ✨ AI/ML | Go | TypeScript | PHP | React | AWS | Kubernetes | Agentic Systems ✨
   </p>
 </div>
 
@@ -19,19 +18,21 @@
 <details open>
   <summary>👨‍💻 <b>About Me</b></summary>
   <br/>
-  I am a highly motivated and results-driven **Senior Full Stack Engineer** and **Cloud/DevOps Architect** with a proven track record of designing, developing, deploying, and managing complex, mission-critical applications. My core expertise lies in leveraging the **Node.js/TypeScript/React** ecosystem combined with the power and flexibility of **AWS cloud services** and modern **DevOps methodologies**.
+  I am a highly motivated and results-driven **Senior Full Stack Engineer**, **AI/ML Engineer**, and **Cloud Architect** with extensive experience in designing, developing, and deploying intelligent, scalable systems. My expertise spans traditional full-stack development, modern AI/ML implementations, and cloud-native architectures across multiple programming languages and platforms.
 
-  With experience leading projects and collaborating within Agile frameworks, I bridge the gap between business objectives and robust technical implementations. I've architected and delivered end-to-end solutions, including sophisticated ERP systems, AI-driven interaction platforms, and high-traffic web applications, consistently focusing on:
+  With deep experience in **agentic AI systems**, **multi-language development** (Go, TypeScript, PHP, Python), and **cloud-native technologies**, I specialize in building autonomous systems that can reason, plan, and execute complex tasks. I've architected and delivered solutions ranging from intelligent automation platforms to high-performance microservices and AI-powered applications.
 
-  *   🧩 **Scalable & Resilient Architecture**
-  *   💻 **Clean, Testable & Maintainable Code** (SOLID, Design Patterns)
-  *   ☁️ **Cloud-Native Best Practices** (Serverless, Containers, IaC)
-  *   ⚙️ **Automation Across the SDLC** (CI/CD, Infrastructure)
-  *   🔒 **Security-First Mindset** (DevSecOps)
-  *   📊 **Data-Driven Optimization** (Monitoring & Observability)
-  *   👥 **Exceptional User Experience (UX)**
+  **Core Specializations:**
+  *   🤖 **Agentic AI & Autonomous Systems** (LLMs, RAG, Multi-Agent Orchestration)
+  *   🚀 **High-Performance Backend Development** (Go, Node.js, PHP)
+  *   🧠 **Machine Learning & AI Integration** (TensorFlow, PyTorch, OpenAI APIs)
+  *   🏗️ **Scalable System Architecture** (Microservices, Event-Driven, Serverless)
+  *   ☁️ **Cloud-Native Solutions** (AWS, Kubernetes, Infrastructure as Code)
+  *   �  **DevOps & Automation** (CI/CD, GitOps, Infrastructure Automation)
+  *   📊 **Data Engineering & Analytics** (Real-time Processing, ETL Pipelines)
+  *   🔒 **Security & Compliance** (Zero-Trust, DevSecOps, GDPR/SOC2)
 
-  I thrive on technical challenges and am dedicated to continuous learning and applying cutting-edge technologies to deliver tangible business value.
+  I excel at bridging the gap between cutting-edge AI research and production-ready systems, consistently delivering solutions that drive measurable business impact.
 </details>
 
 ---
@@ -40,11 +41,21 @@
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Languages & Core Technologies
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+### 🤖 AI/ML & Agentic Systems
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/)
+[![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 
 ### 🎨 Front-End Development
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
@@ -54,16 +65,24 @@
 [![CSS](https://img.shields.io/badge/Vanilla_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### ⚙️ Back-End Development
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://gin-gonic.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io/)
 
-### 🗄️ Databases
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+### 🗄️ Databases & Data Storage
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 
 ### 🎨 Design & UX
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -126,54 +145,78 @@
 
 ---
 
-## 🚀 Highlighted Projects & Contributions
+## 🚀 Featured Projects & Innovations
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏫 Enterprise School ERP System
-**Cloud-Native Microservices Architecture**
+### 🤖 Autonomous AI Agent Platform
+**Multi-Agent Orchestration System**
 
-- **Tech Stack:** Node.js, TypeScript, React, MongoDB, PostgreSQL
-- **Cloud:** AWS EKS, DynamoDB, S3, ElastiCache
-- **DevOps:** Docker, Helm, ArgoCD, GitHub Actions
-- **Impact:** 60% reduction in manual operations, enhanced scalability
+- **Tech Stack:** Go, Python, LangChain, OpenAI GPT-4, Vector DBs
+- **Architecture:** Event-driven microservices, RAG pipeline
+- **Features:** Self-healing agents, dynamic task planning, memory persistence
+- **Impact:** 85% automation of complex workflows, 3x faster decision-making
 
 </td>
 <td width="50%">
 
-### 🤖 AI-Powered Customer Platform
-**Serverless Architecture**
+### ⚡ High-Performance API Gateway
+**Go-Based Microservices Hub**
 
-- **Tech Stack:** Node.js, Google Dialogflow, React
-- **Cloud:** AWS Lambda, API Gateway, DynamoDB
-- **DevOps:** Serverless Framework, AWS CodePipeline
-- **Impact:** 40% reduction in support queries, improved engagement
+- **Tech Stack:** Go, gRPC, Redis, PostgreSQL, Kubernetes
+- **Performance:** 50K+ RPS, <2ms latency, 99.99% uptime
+- **Features:** Rate limiting, circuit breakers, distributed tracing
+- **Impact:** 40% cost reduction, improved system reliability
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏘️ High-Performance Real Estate Platform
-**MERN Stack with Optimization**
+### � IntellPigent School Management System
+**AI-Enhanced ERP Platform**
 
-- **Tech Stack:** MongoDB, Express, React, Node.js, Next.js
-- **Cloud:** AWS EC2, S3, CloudFront, SQS, Lambda
-- **Features:** Geospatial search, SSR, Mapbox integration
-- **Impact:** Sub-second response times, enhanced user engagement
+- **Tech Stack:** PHP Laravel, Vue.js, MySQL, Redis, AI/ML APIs
+- **AI Features:** Predictive analytics, automated scheduling, smart notifications
+- **Cloud:** AWS EKS, RDS, ElastiCache, S3
+- **Impact:** 70% reduction in administrative overhead, enhanced student outcomes
 
 </td>
 <td width="50%">
 
-### 🔧 Infrastructure Automation Suite
-**Multi-Cloud DevOps Platform**
+### � Rearl-Time Analytics Engine
+**Event-Driven Data Processing**
 
-- **Tech Stack:** Terraform, Python, Bash, YAML
-- **Cloud:** AWS, Multi-region deployments
-- **Features:** Auto-scaling, Cost optimization, Security compliance
-- **Impact:** 70% faster deployment cycles, improved reliability
+- **Tech Stack:** Go, ClickHouse, Kafka, TypeScript, React
+- **Architecture:** Stream processing, CQRS, event sourcing
+- **Features:** Real-time dashboards, anomaly detection, predictive insights
+- **Impact:** Sub-second query responses, 90% faster insights delivery
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ AI-Powered Security Platform
+**Autonomous Threat Detection**
+
+- **Tech Stack:** Python, TensorFlow, Go, Elasticsearch, Kibana
+- **AI/ML:** Behavioral analysis, anomaly detection, threat prediction
+- **Features:** Real-time monitoring, automated response, compliance reporting
+- **Impact:** 95% threat detection accuracy, 60% faster incident response
+
+</td>
+<td width="50%">
+
+### 🌐 Multi-Tenant SaaS Platform
+**Scalable B2B Solution**
+
+- **Tech Stack:** Go, TypeScript, PostgreSQL, Redis, React
+- **Architecture:** Multi-tenant, event-driven, microservices
+- **Features:** Dynamic scaling, custom workflows, advanced analytics
+- **Impact:** Supports 10K+ tenants, 99.9% availability, rapid feature deployment
 
 </td>
 </tr>
@@ -195,20 +238,43 @@
 
 ---
 
-## 🌱 Continuous Learning & Future Focus
+## 🌱 Innovation & Research Focus
 
 <div align="center">
 
-```javascript
-const currentFocus = {
-  cloudSecurity: ["Advanced IAM", "Security Hub", "Well-Architected Reviews"],
-  kubernetes: ["Service Mesh (Istio)", "GitOps (FluxCD)", "Cluster API"],
-  eventDriven: ["AWS EventBridge", "Step Functions", "Apache Kafka"],
-  performance: ["Distributed Tracing", "Database Optimization", "Profiling"],
-  finOps: ["Cost Management", "AWS Savings Plans", "Resource Optimization"]
-};
+```go
+type TechFocus struct {
+    AgenticAI      []string `json:"agentic_ai"`
+    AdvancedGo     []string `json:"advanced_go"`
+    AIMLOps        []string `json:"ai_ml_ops"`
+    EdgeComputing  []string `json:"edge_computing"`
+    Quantum        []string `json:"quantum_ready"`
+}
 
-console.log("Always learning, always growing! 🚀");
+var currentResearch = TechFocus{
+    AgenticAI: []string{
+        "Multi-Agent Systems", "Autonomous Planning", 
+        "Tool-Using AI", "Memory-Augmented Agents",
+    },
+    AdvancedGo: []string{
+        "High-Performance Concurrency", "WebAssembly", 
+        "Distributed Systems", "Real-time Processing",
+    },
+    AIMLOps: []string{
+        "Model Deployment Automation", "A/B Testing for AI",
+        "Federated Learning", "Edge AI Optimization",
+    },
+    EdgeComputing: []string{
+        "IoT Integration", "5G Applications",
+        "Real-time Analytics", "Distributed AI",
+    },
+    Quantum: []string{
+        "Quantum-Safe Cryptography", "Hybrid Algorithms",
+        "Quantum ML", "Post-Quantum Security",
+    },
+}
+
+fmt.Println("Building the future, one algorithm at a time! 🚀")
 ```
 
 </div>
@@ -228,6 +294,13 @@ console.log("Always learning, always growing! 🚀");
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+elegant+and+resilient+software+systems;Passionate+about+cloud-native+technologies;Always+exploring+new+tech+frontiers!" alt="Typing SVG" />
 
-**"Code is poetry written in logic, infrastructure is the stage where it performs."**
+**"In the symphony of code and intelligence, we compose the future—where algorithms think, systems adapt, and possibilities become infinite."**
+
+---
+
+### 🎯 Current Availability
+- **Open to:** Senior/Lead Engineering roles, AI/ML positions, Technical Architecture consulting
+- **Specializing in:** Agentic AI systems, High-performance Go applications, Cloud-native architectures
+- **Location:** Remote-first, Haryana (India), Open to relocation for exceptional opportunities
 
 </div>
